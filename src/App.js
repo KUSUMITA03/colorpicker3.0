@@ -1,11 +1,11 @@
-
 import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
-import ColorPicker from './components/ColorPicker';
+import Colorpicker from './components/ColorPicker';
+
 function App() {
   return (
     <div>
-      <ColorPicker/>
+      <Colorpicker></Colorpicker>
     </div>
   );
 }
